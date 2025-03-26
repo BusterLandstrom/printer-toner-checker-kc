@@ -52,3 +52,9 @@ To configure it for your environment:
 
 - **For Power Users/Home Office:**  
   Great for home setups with multiple printers. Run the app locally, update identifiers or IPs as needed, and manage your printer fleet with ease.
+
+---
+
+## Requests
+
+If it is requested I'll provide full NSIS scripts, guides and more.
