@@ -3,3 +3,5 @@ pysnmp
 pywin32
 Office365-REST-Python-Client
 browserdriver
+customtkinter
+tkinter
