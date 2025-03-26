@@ -3,7 +3,7 @@
 A modular and configurable SNMP-based tool to monitor toner level and toner model name built in Python, currently optimized for Kyocera printers (But is easily modified to work with any SNMP enabled printer device).  
 It supports both enterprise environments with SharePoint integration and smaller office/home setups with multiple printers.
 
-![alt text](https://github.com/BusterLandstrom/printer-toner-checker-kc/Images/ptmdashboard.png)
+![Printer Monitor Dashboard](https://raw.githubusercontent.com/BusterLandstrom/printer-toner-checker-kc/refs/heads/main/Images/ptmdashboard.png)
 
 ---
 
