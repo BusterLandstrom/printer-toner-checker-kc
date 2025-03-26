@@ -1,0 +1,5 @@
+This is a list to all dependencies needed for this project to work:
+pysnmp
+pywin32
+Office365-REST-Python-Client
+browserdriver
